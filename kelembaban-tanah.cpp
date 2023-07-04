@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <unistd.h>
-#include <windows.h>
 
 int i;
 int kelembapan = 40;
